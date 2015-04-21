@@ -383,7 +383,7 @@
   gamewebsite: http://sketchcross.com
   devwebsite: http://www.spikyfishgames.com/SpikyFishGames/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-04-28
   western: true
   released: false
 
@@ -1054,9 +1054,9 @@
   gamewebsite: http://yachtclubgames.com/shovel-knight/
   devwebsite: http://yachtclubgames.com/
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-04-21
   western: true
-  released: false
+  released: true
 
 - name: Starwhal
   about: Flop it out with 2-4 players in a retro, epic narwhal battle in space! The heart-piercing action is furious and unrelenting.
